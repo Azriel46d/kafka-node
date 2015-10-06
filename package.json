@@ -12,8 +12,7 @@
     "lodash": "~3.5.0",
     "node-uuid": "~1.4.3",
     "node-zookeeper-client": "~0.2.2",
-    "retry": "~0.6.1",
-    "snappy": "^4.0.0"
+    "retry": "~0.6.1"
   },
   "devDependencies": {
     "mocha": "^2.2.1",
